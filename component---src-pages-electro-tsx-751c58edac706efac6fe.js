@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[681],{2183:function(e,t,l){l.r(t);var r=l(7294);t.default=function(){return r.createElement(r.Fragment,null,"Electo page")}}}]);
+//# sourceMappingURL=component---src-pages-electro-tsx-751c58edac706efac6fe.js.map
