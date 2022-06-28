@@ -1,1 +1,0 @@
-{"version":3,"file":"component---src-pages-partners-tsx-eb6480a938ebd7e0abbd.js","mappings":"kKAEA,qBAAe,OAAMA,EAAAA,cAAAA,EAAAA,SAAAA,KAAAA","sources":["webpack://gatsby-starter-hello-world/./src/pages/partners.tsx"],"sourcesContent":["import React from 'react'\n\nexport default () => <>Partners page</>\n"],"names":["React"],"sourceRoot":""}
