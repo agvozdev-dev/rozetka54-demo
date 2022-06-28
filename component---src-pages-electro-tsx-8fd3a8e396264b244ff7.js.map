@@ -1,0 +1,1 @@
+{"version":3,"file":"component---src-pages-electro-tsx-8fd3a8e396264b244ff7.js","mappings":"kKAEA,qBAAe,OAAMA,EAAAA,cAAAA,EAAAA,SAAAA,KAAAA","sources":["webpack://gatsby-starter-hello-world/./src/pages/electro.tsx"],"sourcesContent":["import React from 'react'\n\nexport default () => <>Electo page</>\n"],"names":["React"],"sourceRoot":""}
