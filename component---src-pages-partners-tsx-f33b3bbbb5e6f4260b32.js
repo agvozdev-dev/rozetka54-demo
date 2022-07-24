@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[451],{7354:function(e,t,r){r.r(t);var a=r(7294);t.default=function(){return a.createElement(a.Fragment,null,"Partners page")}}}]);
-//# sourceMappingURL=component---src-pages-partners-tsx-f33b3bbbb5e6f4260b32.js.map

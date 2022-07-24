@@ -1,5 +1,1 @@
-<<<<<<< HEAD
 {"componentChunkName":"component---src-pages-blog-tsx","path":"/blog/","result":{"pageContext":{}},"staticQueryHashes":["1322234328","2442378294","254228561","476612570"]}
-=======
-{"componentChunkName":"component---src-pages-blog-tsx","path":"/blog/","result":{"data":{"allMdx":{"nodes":[{"frontmatter":{"date":"June 26, 2022","title":"Соединения в электромонтаже"},"id":"cb1289b9-9ea0-5833-9141-7e5acf8844ec","slug":"electrical-connection/"},{"frontmatter":{"date":"July 25, 2021","title":"Актуальность видеонаблюдения"},"id":"dd5503e4-39d1-57f3-9993-94dfeb5f5135","slug":"cctv-actuality/"},{"frontmatter":{"date":"July 23, 2021","title":"Значимость интернета"},"id":"7d308753-f8c1-5361-a0c0-4c70957ac00e","slug":"internet-importance/"}]}},"pageContext":{}},"staticQueryHashes":["1322234328","476612570"]}
->>>>>>> main
