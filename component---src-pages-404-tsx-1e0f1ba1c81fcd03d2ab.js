@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkgatsby_starter_hello_world=self.webpackChunkgatsby_starter_hello_world||[]).push([[218],{5415:function(e,t,a){a.r(t);var n=a(7294),l=a(9566);t.default=function(){return n.createElement(l.Z,{pageTitle:"404 Страница не существует"},n.createElement("div",{className:"not-found"},n.createElement("div",{className:"not-found__code"},"404"),n.createElement("div",{className:"not-found__description"},"Страница не существует")))}}}]);
+//# sourceMappingURL=component---src-pages-404-tsx-1e0f1ba1c81fcd03d2ab.js.map
